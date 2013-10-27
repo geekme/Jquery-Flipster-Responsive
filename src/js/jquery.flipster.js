@@ -7,7 +7,8 @@ $.fn.flipster = function(options) {
 		style:							'carousel', // Switch between 'coverflow' or 'carousel' display styles
 		start:							'center', // Starting item. Set to 0 to start at the first, 'center' to start in the middle or the index of the item you want to start with.
 		isResponsive : false,//Set the Responsive to true if you want to make the Flipster Responsive and False to disable it
-		enableKeyboard:			true, // Enable left/right arrow navigation
+		showTitle:false,
+        enableKeyboard:			true, // Enable left/right arrow navigation
 		enableMousewheel:		true, // Enable scrollwheel navigation (up = left, down = right)
 		enableTouch:				true, // Enable swipe navigation for touch devices
 		
@@ -18,6 +19,13 @@ $.fn.flipster = function(options) {
 	};
 	var settings = $.extend({}, defaults, options);
 	var win = $(window);
+
+    if(settings.showTitle){
+        var titleCarrier = $('<p>');
+        titleCarrier.addClass("titleCarrier");
+
+        $(this).append(titleCarrier);
+    }
 	
 	return this.each(function(){
 		
@@ -61,7 +69,8 @@ $.fn.flipster = function(options) {
                     width: actualWidthOfContainer,
                     left: "50%",
                     position: "relative",
-                    marginLeft: marginCalculation
+                    marginLeft: marginCalculation,
+                    marginTop:"2%"
                 });
                 //Set parents Width and some spacing for Box-shadow
                 _flipItemsOuter.parent().width(actualParentWidth);
@@ -69,6 +78,14 @@ $.fn.flipster = function(options) {
             }
             else {
                 _flipItemsOuter.width(_flipItems.width());
+            }
+        }
+
+        function showTitle(){
+            if(settings.showTitle){
+                var title = $(_flipItems[_current]).data("title");
+
+                _flipItemsOuter.parent().find('.titleCarrier').html(title);
             }
         }
 
@@ -254,6 +271,7 @@ $.fn.flipster = function(options) {
 			
 			resize();
 			updateNav();
+            showTitle();
 			settings.onItemSwitch.call(this);
 		}
 		

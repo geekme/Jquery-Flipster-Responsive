@@ -140,4 +140,19 @@
 .flipster .flipto-next {
   right: 0;
 }
+
+/*Title Carrier CSS*/
+.titleCarrier {
+    left: 50%;
+    margin: 0 0 20px -15%;
+    position: absolute;
+    text-align: center;
+    top: 0;
+    width: 30%;
+    -webkit-transition: all 0.5 ;
+    -moz-transition: all 0.5;
+    -ms-transition: all 0.5;
+    -o-transition: all 0.5;
+    transition: all 0.5;
+}
 /* @end */
