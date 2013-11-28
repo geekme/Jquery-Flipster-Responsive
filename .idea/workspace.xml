@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1b998802-9c48-41fa-8216-d4ddd6ae5abf" name="Default" comment="">
+    <list default="true" id="1b998802-9c48-41fa-8216-d4ddd6ae5abf" name="Default" comment="Added Show Title attribute added">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/leftArrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/rightArrow.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/flipsternavtabs.css" afterPath="$PROJECT_DIR$/css/flipsternavtabs.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/js/jquery.flipster.js" afterPath="$PROJECT_DIR$/src/js/jquery.flipster.js" />
@@ -9,10 +11,251 @@
     </list>
     <ignored path="Jquery-Flipster-Responsive.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382854015364" ignored="false" />
-    <file path="/jquery.flipster.js" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382861486237" ignored="false" />
-    <file path="/index.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382860201158" ignored="false" />
-    <file path="/flipsternavtabs.css" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382861446826" ignored="false" />
+    <file path="/Dummy.txt" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1385624558240" ignored="false" />
+    <file path="/jquery.flipster.js" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1385625395244" ignored="false" />
+    <file path="/index.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1385625420876" ignored="false" />
+    <file path="/flipsternavtabs.css" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382945379617" ignored="false" />
+    <file path="$PROJECT_DIR$/../uiTesting/TEMP/index.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382942316432" ignored="false" />
+    <file path="$PROJECT_DIR$/../uiTesting/TEMP/flipsternavtabs.css" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382960621041" ignored="false" />
+    <file path="$PROJECT_DIR$/../uiTesting/TEMP/style.css" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382949350456" ignored="false" />
+    <file path="/style.css" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1383821058101" ignored="false" />
+    <file path="$PROJECT_DIR$/../uiTesting/TEMP/jquery.flipster.css" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382949614468" ignored="false" />
+    <file path="$PROJECT_DIR$/../vodafoneFeatured_VMBO/index.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382964958613" ignored="false" />
+    <file path="/*.regexp" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382965621664" ignored="false" />
+    <file path="$PROJECT_DIR$/../vodafoneFeatured_VMBO/language/tamil.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382965641959" ignored="false" />
+    <file path="$PROJECT_DIR$/../vodafoneFeatured_VMBO/language/tamil1.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382965641959" ignored="false" />
+    <file path="$PROJECT_DIR$/../vodafoneFeatured_VMBO/language/tamil2.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382965641959" ignored="false" />
+    <file path="$PROJECT_DIR$/../vodafoneFeatured_VMBO/language/telugu.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382965641959" ignored="false" />
+    <file path="$PROJECT_DIR$/../vodafoneFeatured_VMBO/categories/trend.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382953221080" ignored="false" />
+    <file path="$PROJECT_DIR$/../vodafoneFeatured_VMBO/categories/trend1.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382953221080" ignored="false" />
+    <file path="$PROJECT_DIR$/../vodafoneFeatured_VMBO/categories/trend2.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382953221080" ignored="false" />
+    <file path="$PROJECT_DIR$/../vodafoneFeatured_VMBO/language/assamese.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382965556320" ignored="false" />
+    <file path="$PROJECT_DIR$/../vodafoneFeatured_VMBO/language/assamese1.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382965641959" ignored="false" />
+    <file path="$PROJECT_DIR$/../vodafoneFeatured_VMBO/language/assamese2.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382965641959" ignored="false" />
+    <file path="$PROJECT_DIR$/../vodafoneFeatured_VMBO/language/bengali.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382965641959" ignored="false" />
+    <file path="$PROJECT_DIR$/../vodafoneFeatured_VMBO/language/bengali1.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382965641959" ignored="false" />
+    <file path="$PROJECT_DIR$/../vodafoneFeatured_VMBO/language/bengali2.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382965641959" ignored="false" />
+    <file path="$PROJECT_DIR$/../vodafoneFeatured_VMBO/language/bhojpuri.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382965641959" ignored="false" />
+    <file path="$PROJECT_DIR$/../vodafoneFeatured_VMBO/language/bhojpuri1.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382965641959" ignored="false" />
+    <file path="$PROJECT_DIR$/../vodafoneFeatured_VMBO/language/bhojpuri2.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382965641959" ignored="false" />
+    <file path="$PROJECT_DIR$/../vodafoneFeatured_VMBO/confirUnsub.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382956792790" ignored="false" />
+    <file path="$PROJECT_DIR$/../vodafoneFeatured_VMBO/categories/cookery.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382953221080" ignored="false" />
+    <file path="$PROJECT_DIR$/../vodafoneFeatured_VMBO/categories/cookery1.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382953221080" ignored="false" />
+    <file path="$PROJECT_DIR$/../vodafoneFeatured_VMBO/categories/cookery2.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382953221080" ignored="false" />
+    <file path="$PROJECT_DIR$/../vodafoneFeatured_VMBO/categories/crime.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382953221080" ignored="false" />
+    <file path="$PROJECT_DIR$/../vodafoneFeatured_VMBO/categories/crime1.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382953221081" ignored="false" />
+    <file path="$PROJECT_DIR$/../vodafoneFeatured_VMBO/categories/crime2.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382953221081" ignored="false" />
+    <file path="$PROJECT_DIR$/../vodafoneFeatured_VMBO/categories/dailySerials.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382953221081" ignored="false" />
+    <file path="$PROJECT_DIR$/../vodafoneFeatured_VMBO/categories/dailySerials1.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382953221081" ignored="false" />
+    <file path="$PROJECT_DIR$/../vodafoneFeatured_VMBO/categories/dailySerials2.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382953221081" ignored="false" />
+    <file path="$PROJECT_DIR$/../vodafoneFeatured_VMBO/categories/drama.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382953221081" ignored="false" />
+    <file path="$PROJECT_DIR$/../vodafoneFeatured_VMBO/categories/drama1.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382953221081" ignored="false" />
+    <file path="$PROJECT_DIR$/../vodafoneFeatured_VMBO/categories/drama2.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382953221081" ignored="false" />
+    <file path="$PROJECT_DIR$/../vodafoneFeatured_VMBO/categories/glamour.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382953221081" ignored="false" />
+    <file path="$PROJECT_DIR$/../vodafoneFeatured_VMBO/categories/glamour1.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382953221081" ignored="false" />
+    <file path="$PROJECT_DIR$/../vodafoneFeatured_VMBO/categories/glamour2.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382953221081" ignored="false" />
+    <file path="$PROJECT_DIR$/../vodafoneFeatured_VMBO/gone.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382956792790" ignored="false" />
+    <file path="$PROJECT_DIR$/../vodafoneFeatured_VMBO/language/gujarati.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382965641959" ignored="false" />
+    <file path="$PROJECT_DIR$/../vodafoneFeatured_VMBO/language/gujarati1.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382965641959" ignored="false" />
+    <file path="$PROJECT_DIR$/../vodafoneFeatured_VMBO/language/gujarati2.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382965641959" ignored="false" />
+    <file path="$PROJECT_DIR$/../vodafoneFeatured_VMBO/language/hindi.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382965641959" ignored="false" />
+    <file path="$PROJECT_DIR$/../vodafoneFeatured_VMBO/language/hindi1.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382965641959" ignored="false" />
+    <file path="$PROJECT_DIR$/../vodafoneFeatured_VMBO/language/hindi2.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382965641959" ignored="false" />
+    <file path="$PROJECT_DIR$/../vodafoneFeatured_VMBO/language/kannada.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382965641959" ignored="false" />
+    <file path="$PROJECT_DIR$/../vodafoneFeatured_VMBO/language/kannada1.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382965641959" ignored="false" />
+    <file path="$PROJECT_DIR$/../vodafoneFeatured_VMBO/language/kannada2.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382965641959" ignored="false" />
+    <file path="$PROJECT_DIR$/../vodafoneFeatured_VMBO/language/malayalam.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382965641959" ignored="false" />
+    <file path="$PROJECT_DIR$/../vodafoneFeatured_VMBO/language/malayalam1.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382965641959" ignored="false" />
+    <file path="$PROJECT_DIR$/../vodafoneFeatured_VMBO/language/malayalam2.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382965641959" ignored="false" />
+    <file path="$PROJECT_DIR$/../vodafoneFeatured_VMBO/language/marathi.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382965641959" ignored="false" />
+    <file path="$PROJECT_DIR$/../vodafoneFeatured_VMBO/language/marathi1.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382965641959" ignored="false" />
+    <file path="$PROJECT_DIR$/../vodafoneFeatured_VMBO/language/marathi2.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382965641959" ignored="false" />
+    <file path="$PROJECT_DIR$/../vodafoneFeatured_VMBO/language/oriya.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382965641959" ignored="false" />
+    <file path="$PROJECT_DIR$/../vodafoneFeatured_VMBO/language/oriya1.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382965641959" ignored="false" />
+    <file path="$PROJECT_DIR$/../vodafoneFeatured_VMBO/language/oriya2.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382965641959" ignored="false" />
+    <file path="$PROJECT_DIR$/../vodafoneFeatured_VMBO/categories/reality.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382953221081" ignored="false" />
+    <file path="$PROJECT_DIR$/../vodafoneFeatured_VMBO/categories/reality1.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382953221081" ignored="false" />
+    <file path="$PROJECT_DIR$/../vodafoneFeatured_VMBO/categories/reality2.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382953221081" ignored="false" />
+    <file path="$PROJECT_DIR$/../vodafoneFeatured_VMBO/topImages.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382967038286" ignored="false" />
+    <file path="$PROJECT_DIR$/../vodafoneFeatured_VMBO/unsubscribe.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382956792789" ignored="false" />
+    <file path="$PROJECT_DIR$/../vodafoneFeatured_VMBO/search/listChannel.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382956792790" ignored="false" />
+    <file path="$PROJECT_DIR$/../vodafoneFeatured_VMBO/search/listChannel1.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382956792790" ignored="false" />
+    <file path="$PROJECT_DIR$/../vodafoneFeatured_VMBO/search/listChannel2.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382956792790" ignored="false" />
+    <file path="$PROJECT_DIR$/../vodafoneFeatured_VMBO/search.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382956792790" ignored="false" />
+    <file path="$PROJECT_DIR$/../vodafoneFeatured_VMBO/search/search.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382956772085" ignored="false" />
+    <file path="$PROJECT_DIR$/../vodafoneFeatured_VMBO/search/search1.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382956772085" ignored="false" />
+    <file path="$PROJECT_DIR$/../vodafoneFeatured_VMBO/search/search2.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382956772085" ignored="false" />
+    <file path="$PROJECT_DIR$/../vodafoneFeatured_VMBO/subscribed.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1383068539446" ignored="false" />
+    <file path="$PROJECT_DIR$/../vodafoneFeatured_VMBO/topMovies.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1383103070371" ignored="false" />
+    <file path="$PROJECT_DIR$/../vodafoneFeatured_VMBO/language/telugu1.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382965641959" ignored="false" />
+    <file path="$PROJECT_DIR$/../vodafoneFeatured_VMBO/language/telugu2.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382965641959" ignored="false" />
+    <file path="/cookery.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382952008756" ignored="false" />
+    <file path="$PROJECT_DIR$/../vodafoneFeatured_VMBO/playlists/playlist1.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382956792790" ignored="false" />
+    <file path="$PROJECT_DIR$/../vodafoneFeatured_VMBO/playlists/playlist2.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382956792790" ignored="false" />
+    <file path="$PROJECT_DIR$/../vodafoneFeatured_VMBO/playlists/playBack.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382956792790" ignored="false" />
+    <file path="/topMovies.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382952511545" ignored="false" />
+    <file path="$PROJECT_DIR$/../vodafoneFeatured_VMBO/topMovies1.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382966965760" ignored="false" />
+    <file path="/topMovies1.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382952854944" ignored="false" />
+    <file path="$PROJECT_DIR$/../vodafoneFeatured_VMBO/wallpapers.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382956792789" ignored="false" />
+    <file path="/wallpapers.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382953014523" ignored="false" />
+    <file path="$PROJECT_DIR$/../vodafoneFeatured_VMBO/wallpapers1.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382953085955" ignored="false" />
+    <file path="/wallpapers1.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382953085518" ignored="false" />
+    <file path="$PROJECT_DIR$/../vodafoneFeatured_VMBO/animations.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382956792790" ignored="false" />
+    <file path="/search.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382954101110" ignored="false" />
+    <file path="/search1.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382954128634" ignored="false" />
+    <file path="$PROJECT_DIR$/../vodafoneFeatured_VMBO/search/searchMovies.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382956772084" ignored="false" />
+    <file path="$PROJECT_DIR$/../vodafoneFeatured_VMBO/search/searchMovies2.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382956772084" ignored="false" />
+    <file path="/searchMovies.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382954275229" ignored="false" />
+    <file path="$PROJECT_DIR$/../vodafoneFeatured_VMBO/search/searchMovies1.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382956772084" ignored="false" />
+    <file path="/searchMovies1.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382954308464" ignored="false" />
+    <file path="/searchMovies2.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382954332265" ignored="false" />
+    <file path="$PROJECT_DIR$/../vodafoneFeatured_VMBO/search/searchScenes.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382956772084" ignored="false" />
+    <file path="/searchScenes.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382954392224" ignored="false" />
+    <file path="$PROJECT_DIR$/../vodafoneFeatured_VMBO/search/searchScenes1.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382956772085" ignored="false" />
+    <file path="/searchScenes1.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382954434169" ignored="false" />
+    <file path="$PROJECT_DIR$/../vodafoneFeatured_VMBO/search/searchScenes2.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382956772085" ignored="false" />
+    <file path="/searchScenes2.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382954459640" ignored="false" />
+    <file path="$PROJECT_DIR$/../vodafoneFeatured_VMBO/categories/sample.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382956721490" ignored="false" />
+    <file path="/sample.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382956406983" ignored="false" />
+    <file path="$PROJECT_DIR$/../vodafoneFeatured_VMBO/categories/sample1.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382956940163" ignored="false" />
+    <file path="/sample1.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382956387945" ignored="false" />
+    <file path="$PROJECT_DIR$/../vodafoneFeatured_VMBO/categories/sample2.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382956664154" ignored="false" />
+    <file path="/sample2.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382956430107" ignored="false" />
+    <file path="$PROJECT_DIR$/../vodafoneFeatured_VMBO/categories/oldCat/cookery.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382956792790" ignored="false" />
+    <file path="$PROJECT_DIR$/../vodafoneFeatured_VMBO/categories/oldCat/cookery1.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382956792790" ignored="false" />
+    <file path="$PROJECT_DIR$/../vodafoneFeatured_VMBO/categories/oldCat/cookery2.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382956792790" ignored="false" />
+    <file path="$PROJECT_DIR$/../vodafoneFeatured_VMBO/categories/oldCat/crime.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382956792790" ignored="false" />
+    <file path="$PROJECT_DIR$/../vodafoneFeatured_VMBO/categories/oldCat/crime1.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382956792790" ignored="false" />
+    <file path="$PROJECT_DIR$/../vodafoneFeatured_VMBO/categories/oldCat/crime2.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382956792790" ignored="false" />
+    <file path="$PROJECT_DIR$/../vodafoneFeatured_VMBO/categories/oldCat/dailySerials.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382956792790" ignored="false" />
+    <file path="$PROJECT_DIR$/../vodafoneFeatured_VMBO/categories/oldCat/dailySerials1.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382956792790" ignored="false" />
+    <file path="$PROJECT_DIR$/../vodafoneFeatured_VMBO/categories/oldCat/dailySerials2.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382956792790" ignored="false" />
+    <file path="$PROJECT_DIR$/../vodafoneFeatured_VMBO/categories/oldCat/drama.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382956792790" ignored="false" />
+    <file path="$PROJECT_DIR$/../vodafoneFeatured_VMBO/categories/oldCat/drama1.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382956792790" ignored="false" />
+    <file path="$PROJECT_DIR$/../vodafoneFeatured_VMBO/categories/oldCat/drama2.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382956792790" ignored="false" />
+    <file path="$PROJECT_DIR$/../vodafoneFeatured_VMBO/categories/oldCat/glamour.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382956792790" ignored="false" />
+    <file path="$PROJECT_DIR$/../vodafoneFeatured_VMBO/categories/oldCat/glamour1.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382956792790" ignored="false" />
+    <file path="$PROJECT_DIR$/../vodafoneFeatured_VMBO/categories/oldCat/glamour2.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382956792790" ignored="false" />
+    <file path="$PROJECT_DIR$/../vodafoneFeatured_VMBO/categories/oldCat/reality.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382956792790" ignored="false" />
+    <file path="$PROJECT_DIR$/../vodafoneFeatured_VMBO/categories/oldCat/reality1.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382956792790" ignored="false" />
+    <file path="$PROJECT_DIR$/../vodafoneFeatured_VMBO/categories/oldCat/reality2.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382956792790" ignored="false" />
+    <file path="$PROJECT_DIR$/../vodafoneFeatured_VMBO/categories/oldCat/trend.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382956792789" ignored="false" />
+    <file path="$PROJECT_DIR$/../vodafoneFeatured_VMBO/categories/oldCat/trend1.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382956792789" ignored="false" />
+    <file path="$PROJECT_DIR$/../vodafoneFeatured_VMBO/categories/oldCat/trend2.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382956792789" ignored="false" />
+    <file path="$PROJECT_DIR$/../vodafoneFeatured_VMBO/playlists/playlist.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382956792790" ignored="false" />
+    <file path="/assamese2.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382957096867" ignored="false" />
+    <file path="/assamese1.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382957123657" ignored="false" />
+    <file path="/assamese.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382965556320" ignored="false" />
+    <file path="/bengali.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382957169213" ignored="false" />
+    <file path="/bengali1.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382957205414" ignored="false" />
+    <file path="/bengali2.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382957217342" ignored="false" />
+    <file path="/bhojpuri.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382957269374" ignored="false" />
+    <file path="/bhojpuri1.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382957361093" ignored="false" />
+    <file path="/bhojpuri2.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382957385424" ignored="false" />
+    <file path="/gujarati.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382957421348" ignored="false" />
+    <file path="/gujarati1.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382957461679" ignored="false" />
+    <file path="/gujarati2.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382957504812" ignored="false" />
+    <file path="/hindi.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382957524933" ignored="false" />
+    <file path="/hindi1.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382957559059" ignored="false" />
+    <file path="/hindi2.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382957652689" ignored="false" />
+    <file path="/kannada.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382957672901" ignored="false" />
+    <file path="/kannada1.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382957694853" ignored="false" />
+    <file path="/kannada2.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382957710734" ignored="false" />
+    <file path="/malayalam.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382957730623" ignored="false" />
+    <file path="/malayalam1.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382957754488" ignored="false" />
+    <file path="/malayalam2.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382957771323" ignored="false" />
+    <file path="/marathi.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382957791547" ignored="false" />
+    <file path="/marathi1.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382957818023" ignored="false" />
+    <file path="/marathi2.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382957839741" ignored="false" />
+    <file path="/oriya.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382957864423" ignored="false" />
+    <file path="/oriya1.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382957882817" ignored="false" />
+    <file path="/oriya2.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382957898976" ignored="false" />
+    <file path="/tamil.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382958409984" ignored="false" />
+    <file path="/tamil1.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382957955961" ignored="false" />
+    <file path="/tamil2.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382957976017" ignored="false" />
+    <file path="/telugu.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382957990635" ignored="false" />
+    <file path="/telugu1.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382958015836" ignored="false" />
+    <file path="/telugu2.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1382958034649" ignored="false" />
+    <file path="/subscribed.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1383068496430" ignored="false" />
+    <file path="$PROJECT_DIR$/../vodafoneFeatured_VMBO/categories.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1383103384539" ignored="false" />
+    <file path="/categories.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1383103384870" ignored="false" />
+    <file path="$PROJECT_DIR$/../vodafoneFeatured_VMBO/categories1.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1383103371975" ignored="false" />
+    <file path="/categories1.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1383103370342" ignored="false" />
+    <file path="$PROJECT_DIR$/../vodafoneFeatured_VMBO/myAccount.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1383103657837" ignored="false" />
+    <file path="/myAccount.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1383103656811" ignored="false" />
+    <file path="$PROJECT_DIR$/../vodafoneFeatured_VMBO/myAccount1.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1383103653540" ignored="false" />
+    <file path="/myAccount1.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1383103650481" ignored="false" />
+    <file path="$PROJECT_DIR$/../validateFunction/validate.js" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1383634160861" ignored="false" />
+    <file path="/validate.js" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1383634160861" ignored="false" />
+    <file path="$PROJECT_DIR$/../validateFunction/index.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1383657468512" ignored="false" />
+    <file path="$PROJECT_DIR$/../airtelLive/indexEnglish.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1383218893477" ignored="false" />
+    <file path="/indexEnglish.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1383217131955" ignored="false" />
+    <file path="$PROJECT_DIR$/../airtelLive/indexHindi.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1383218899552" ignored="false" />
+    <file path="$PROJECT_DIR$/../airtelLive/index.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1383218884336" ignored="false" />
+    <file path="$PROJECT_DIR$/../airtelLive/more/tamil/moreVideos.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1383217400448" ignored="false" />
+    <file path="$PROJECT_DIR$/../airtelLive/more/tamil/moreVideos1.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1383217403846" ignored="false" />
+    <file path="$PROJECT_DIR$/../airtelLive/more/hindi/moreVideos.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1383217389824" ignored="false" />
+    <file path="$PROJECT_DIR$/../airtelLive/more/hindi/moreVideos1.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1383217394559" ignored="false" />
+    <file path="$PROJECT_DIR$/../airtelLive/more/eng/moreVideos.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1383217375758" ignored="false" />
+    <file path="/moreVideos.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1383217309053" ignored="false" />
+    <file path="$PROJECT_DIR$/../airtelLive/more/eng/moreVideos1.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1383217383129" ignored="false" />
+    <file path="$PROJECT_DIR$/../airtelLive/more/tamil/moreDevotional.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1383217454597" ignored="false" />
+    <file path="$PROJECT_DIR$/../airtelLive/more/tamil/moreDevotional1.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1383217463098" ignored="false" />
+    <file path="$PROJECT_DIR$/../airtelLive/more/tamil/moreEntertainment.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1383217470476" ignored="false" />
+    <file path="$PROJECT_DIR$/../airtelLive/more/tamil/moreEntertainment1.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1383217477901" ignored="false" />
+    <file path="$PROJECT_DIR$/../airtelLive/more/tamil/moreMovies.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1383217484603" ignored="false" />
+    <file path="$PROJECT_DIR$/../airtelLive/more/tamil/moreMovies1.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1383217490227" ignored="false" />
+    <file path="$PROJECT_DIR$/../airtelLive/more/tamil/moreNews.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1383217498703" ignored="false" />
+    <file path="$PROJECT_DIR$/../airtelLive/more/tamil/moreNews1.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1383217523029" ignored="false" />
+    <file path="$PROJECT_DIR$/../airtelLive/more/tamil/moreSports.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1383217529209" ignored="false" />
+    <file path="$PROJECT_DIR$/../airtelLive/more/tamil/moreSports1.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1383217536112" ignored="false" />
+    <file path="$PROJECT_DIR$/../airtelLive/more/hindi/moreDevotional.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1383217555951" ignored="false" />
+    <file path="$PROJECT_DIR$/../airtelLive/more/hindi/moreDevotional1.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1383217562495" ignored="false" />
+    <file path="$PROJECT_DIR$/../airtelLive/more/hindi/moreEntertainment.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1383217568726" ignored="false" />
+    <file path="$PROJECT_DIR$/../airtelLive/more/hindi/moreEntertainment1.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1383217576896" ignored="false" />
+    <file path="$PROJECT_DIR$/../airtelLive/more/hindi/moreMovies.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1383217583501" ignored="false" />
+    <file path="$PROJECT_DIR$/../airtelLive/more/hindi/moreMovies1.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1383217589579" ignored="false" />
+    <file path="$PROJECT_DIR$/../airtelLive/more/hindi/moreNews.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1383217598109" ignored="false" />
+    <file path="$PROJECT_DIR$/../airtelLive/more/hindi/moreNews1.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1383217607676" ignored="false" />
+    <file path="$PROJECT_DIR$/../airtelLive/more/hindi/moreSports.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1383217615532" ignored="false" />
+    <file path="$PROJECT_DIR$/../airtelLive/more/hindi/moreSports1.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1383217623499" ignored="false" />
+    <file path="/moreDevotional.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1383217635649" ignored="false" />
+    <file path="$PROJECT_DIR$/../airtelLive/more/eng/moreDevotional.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1383217638084" ignored="false" />
+    <file path="$PROJECT_DIR$/../airtelLive/more/eng/moreDevotional1.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1383217651237" ignored="false" />
+    <file path="/moreDevotional1.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1383217649254" ignored="false" />
+    <file path="$PROJECT_DIR$/../airtelLive/more/eng/moreEntertainment.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1383217658146" ignored="false" />
+    <file path="/moreEntertainment.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1383217655673" ignored="false" />
+    <file path="$PROJECT_DIR$/../airtelLive/more/eng/moreEntertainment1.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1383217672670" ignored="false" />
+    <file path="/moreEntertainment1.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1383217666853" ignored="false" />
+    <file path="/moreMovies.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1383217706334" ignored="false" />
+    <file path="$PROJECT_DIR$/../airtelLive/more/eng/moreMovies.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1383217707816" ignored="false" />
+    <file path="$PROJECT_DIR$/../airtelLive/more/eng/moreMovies1.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1383217715680" ignored="false" />
+    <file path="/moreMovies1.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1383217712881" ignored="false" />
+    <file path="$PROJECT_DIR$/../airtelLive/more/eng/moreNews.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1383217724349" ignored="false" />
+    <file path="/moreNews.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1383217722749" ignored="false" />
+    <file path="$PROJECT_DIR$/../airtelLive/more/eng/moreNews1.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1383217731160" ignored="false" />
+    <file path="/moreNews1.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1383217729483" ignored="false" />
+    <file path="$PROJECT_DIR$/../airtelLive/more/eng/moreSports.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1383217741918" ignored="false" />
+    <file path="/moreSports.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1383217740464" ignored="false" />
+    <file path="/moreSports1.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1383217747036" ignored="false" />
+    <file path="$PROJECT_DIR$/../airtelLive/more/eng/moreSports1.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1383217750979" ignored="false" />
+    <file path="/indexHindi.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1383218721041" ignored="false" />
+    <file path="$PROJECT_DIR$/../airtelLive/details/eng/detailsFeat.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1383221621377" ignored="false" />
+    <file path="/detailsFeat.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1383220986786" ignored="false" />
+    <file path="$PROJECT_DIR$/../intel/settings.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1383741566871" ignored="false" />
+    <file path="/settings.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1383741566062" ignored="false" />
+    <file path="$PROJECT_DIR$/../intel/styles/style.css" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1383821058102" ignored="false" />
+    <file path="$PROJECT_DIR$/../intel/feed1.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1383821025827" ignored="false" />
+    <file path="/feed1.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1383821025827" ignored="false" />
+    <file path="$PROJECT_DIR$/../intel/welcome.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1383744960055" ignored="false" />
+    <file path="$PROJECT_DIR$/../intel/regPage.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1383738839422" ignored="false" />
+    <file path="/regPage.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1383727573725" ignored="false" />
+    <file path="$PROJECT_DIR$/../intel/index.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1383738611616" ignored="false" />
+    <file path="/welcome.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1383741727509" ignored="false" />
+    <file path="$PROJECT_DIR$/../intel/login.html" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1383741501636" ignored="false" />
+    <file path="$PROJECT_DIR$/../intel/scripts/tinyscroller.js" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1383810533633" ignored="false" />
+    <file path="/tinyscroller.js" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1383810343526" ignored="false" />
+    <file path="$PROJECT_DIR$/../vodafone_smart_landingpage/assets/styles/style.css" changelist="1b998802-9c48-41fa-8216-d4ddd6ae5abf" time="1383818749931" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +278,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="53" column="26" selection-start="1641" selection-end="1641" vertical-scroll-proportion="-12.076923">
+            <state line="53" column="27" selection-start="1668" selection-end="1668" vertical-scroll-proportion="-12.730769">
               <folding />
             </state>
           </provider>
@@ -44,10 +287,8 @@
       <file leaf-file-name="jquery.flipster.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/js/jquery.flipster.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="72" column="33" selection-start="2608" selection-end="2608" vertical-scroll-proportion="0.46532845">
-              <folding>
-                <element signature="e#3480#5261#0" expanded="false" />
-              </folding>
+            <state line="199" column="16" selection-start="8947" selection-end="8947" vertical-scroll-proportion="0.42256215">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -55,7 +296,7 @@
       <file leaf-file-name="flipsternavtabs.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/flipsternavtabs.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="144" column="15" selection-start="3317" selection-end="3317" vertical-scroll-proportion="0.0">
+            <state line="157" column="10" selection-start="3599" selection-end="3599" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -81,16 +322,17 @@
       <list>
         <option value="$PROJECT_DIR$/demo3.html" />
         <option value="$PROJECT_DIR$/../jquery-flipster-master/src/js/jquery.flipster.min.js" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/flipsternavtabs.css" />
+        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/src/js/jquery.flipster.js" />
       </list>
     </option>
   </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1382" />
+    <option name="width" value="1378" />
     <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -119,7 +361,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -148,48 +389,23 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Jquery-Flipster-Responsive" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Jquery-Flipster-Responsive" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Jquery-Flipster-Responsive" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Jquery-Flipster-Responsive" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
+              <option name="myItemId" value="img" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../uiTesting" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\wamp\www\Jquery-Flipster-Responsive\img" />
+    </key>
   </component>
   <component name="RunManager">
     <list size="0" />
@@ -217,31 +433,35 @@
       <created>1382854017922</created>
       <updated>1382854017922</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Added Show Title attribute added">
+      <created>1382861539011</created>
+      <updated>1382861539011</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
+    <frame x="-8" y="-8" width="1378" height="744" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2575988" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -286,7 +506,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added isResponsive Settings attribute" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Show Title attribute added" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -303,59 +523,92 @@
     <MESSAGE value="Jqery-Flipster-Responsive Started" />
     <MESSAGE value="Jqery-Flipster-Responsive Revised Elements" />
     <MESSAGE value="Added isResponsive Settings attribute" />
+    <MESSAGE value="Added Show Title attribute added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../jquery-flipster-master/src/js/jquery.flipster.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="23" selection-start="555" selection-end="560" vertical-scroll-proportion="-0.48757172">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../jquery-flipster-master/src/js/jquery.flipster.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="42" column="25" selection-start="1449" selection-end="1449" vertical-scroll-proportion="0.37226278">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Downloads/jquery-flipster-master/jquery-flipster-master/src/js/jquery.flipster.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="86" selection-start="671" selection-end="671" vertical-scroll-proportion="-0.8686131">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Downloads/jquery-flipster-master1/jquery-flipster-master/src/js/jquery.flipster.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="42" column="95" selection-start="1481" selection-end="1564" vertical-scroll-proportion="0.6514599">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="53" column="26" selection-start="1641" selection-end="1641" vertical-scroll-proportion="-12.076923">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/flipsternavtabs.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="144" column="15" selection-start="3317" selection-end="3317" vertical-scroll-proportion="0.0">
+        <state line="50" column="34" selection-start="1553" selection-end="1553" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/js/jquery.flipster.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="72" column="33" selection-start="2608" selection-end="2608" vertical-scroll-proportion="0.46532845">
-          <folding>
-            <element signature="e#3480#5261#0" expanded="false" />
-          </folding>
+        <state line="304" column="0" selection-start="13540" selection-end="13540" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/flipsternavtabs.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="155" column="24" selection-start="3585" selection-end="3585" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="42" column="0" selection-start="1300" selection-end="1387" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/jquery.flipster.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="73" column="37" selection-start="3046" selection-end="3047" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/flipsternavtabs.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="155" column="24" selection-start="3585" selection-end="3585" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../jquery-flipster-master/src/js/jquery.flipster.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="23" selection-start="555" selection-end="560" vertical-scroll-proportion="-0.48757172" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../jquery-flipster-master/src/js/jquery.flipster.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="42" column="25" selection-start="1449" selection-end="1449" vertical-scroll-proportion="0.37226278" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/jquery-flipster-master/jquery-flipster-master/src/js/jquery.flipster.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="86" selection-start="671" selection-end="671" vertical-scroll-proportion="-0.8686131" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/jquery-flipster-master1/jquery-flipster-master/src/js/jquery.flipster.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="42" column="95" selection-start="1481" selection-end="1564" vertical-scroll-proportion="0.6514599" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/flipsternavtabs.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="157" column="10" selection-start="3599" selection-end="3599" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="53" column="27" selection-start="1668" selection-end="1668" vertical-scroll-proportion="-12.730769">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/jquery.flipster.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="199" column="16" selection-start="8947" selection-end="8947" vertical-scroll-proportion="0.42256215">
+          <folding />
         </state>
       </provider>
     </entry>
